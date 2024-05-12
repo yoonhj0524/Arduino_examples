@@ -4,8 +4,8 @@
 
 ## 기본 예제
 1. GPIO output
-  + LED blinker
-  + 7 Segments
+  + [LED blink](https://www.tinkercad.com/things/9tTlsAQfxbS)
+  + [7 Segments](https://www.tinkercad.com/things/iTgaQUFvTuf)
 3. GPIO input, Get switch status
 4. External interrupt
 5. Pin change interrupt

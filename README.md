@@ -49,6 +49,6 @@
 
 ## Register와 혼용한 예제
 
-## 참고자료
+## [참고자료](https://github.com/sckim/Arduino_examples/blob/main/References.md)
 
 
